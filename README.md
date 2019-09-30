@@ -16,8 +16,9 @@ A quick bootcamp for beginners learning python in 20 days, teaching the fundamen
 12. GUI
 13. Graphics
 14. Exceptions
-15. (still to be decided, probably some interesting topics/sources)
-16. (still to be decided, probably some interesting topics/sources)
+Topics below are still being considered:
+15. Multi-threading 
+16. SQLite
 17. (still to be decided, probably some interesting topics/sources)
 18. (still to be decided, probably some interesting topics/sources)
 19. (still to be decided, probably some interesting topics/sources)
