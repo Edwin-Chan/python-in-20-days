@@ -8,7 +8,7 @@ A quick bootcamp for beginners learning python in 20 days, teaching the fundamen
 4. List and Tuples
 5. Functions
 6. Files
-7.  Dictionaires
+7. Dictionaires
 8. Webscraping, API and exceptions
 9. objects 
 10. object-oriented programming
