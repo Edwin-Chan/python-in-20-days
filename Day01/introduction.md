@@ -49,9 +49,12 @@ In the terminal, try typing
 ```
 python3 -V
 ```
-and if it returns 
+and if it returns
+``` 
 Python 3.x.x
-
+```
 then you are all set!
 
 Now lets get started!!
+
+
