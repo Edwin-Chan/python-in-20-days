@@ -13,7 +13,7 @@ This type is for values which involve a decimal point. It can support mathematic
 String are words which are quoted with single quotes( '' ) and also double quotes (""). It also includes different type of representations, such as raw, Unicode. You can also use triple quotes to keep the formats as listed in the code
 
 Example:
-"""
+```
 >>> str1 = """
 ... List of name:
 ... Alice
@@ -25,7 +25,7 @@ List of name:
 Alice 
 Bob
 
-"""
+```
  
 4. Boolean: 
 Boolean only has two type of values: True , False. (Remember that both values start with a capital letter.) 
@@ -50,7 +50,7 @@ For naming variables, it is always advisable to make it clearly understandable a
 In the following, I shall explain how varaibles can be used.
 How to use variables to calculate?
 
-"""
+```
 Author: Edwin Chan
 
 a = 123 
@@ -63,10 +63,10 @@ print(a // b)
 print(a % b)
 print(a ** b)
 
-"""
+```
 #### How to check type of variables?
 
-"""
+```
 Author: Edwin Chan
 a = 4.2
 b = 100
@@ -79,10 +79,7 @@ print(type(c)) # <class 'complex'>
 print(type(d)) # <class 'str'>
 print(type(e)) # <class 'bool'>
 
-
-
-
-"""
+```
 
 
 
