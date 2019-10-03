@@ -51,8 +51,6 @@ In the following, I shall explain how varaibles can be used.
 How to use variables to calculate?
 
 ```
-Author: Edwin Chan
-
 a = 123 
 b = 122
 print(a + b)
@@ -67,7 +65,6 @@ print(a ** b)
 #### How to check type of variables?
 
 ```
-Author: Edwin Chan
 a = 4.2
 b = 100
 c = 2 + 3 j
