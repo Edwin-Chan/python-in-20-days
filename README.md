@@ -2,7 +2,7 @@
 A quick bootcamp for beginners learning python in 20 days, teaching the fundamental must-knows
 
 ## Topics to be covered:
-1. Intro to course + python: types, variables, i/o
+1. [Intro to course + python: types, variables, i/o](https://github.com/Edwin-Chan/python-in-20-days/blob/master/Day00/introduction.md)
 2. Flow of control, branching if/else, boolean, modules
 3. loop and strings as sequences
 4. List and Tuples
