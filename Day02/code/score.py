@@ -9,5 +9,5 @@ elif score >= 60:
     grade = 'D'
 else:
     grade = 'E'
-print('The corresponding grade for ' + str(score) 'is ' + grade)
+print('The corresponding grade for ' + str(score) + ' is ' + grade)
 
