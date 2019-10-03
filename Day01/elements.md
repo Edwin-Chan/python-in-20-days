@@ -81,6 +81,31 @@ print(type(e)) # <class 'bool'>
 
 ```
 
+#### Some useful variable types conversion with built-in functions
+1. int() converts strings to integers, eg int('123')-> 123
+2. float() converts strings to float, eg float('12.333') -> 12.333
+3. str() converts values into strings, eg str(123) -> '123'
+
+#### Some useful built-in functions
+1. input() is used to get keyboard input
+2. print() is used to show the values on terminal
+
+```
+a = int(input('please input value of a'))
+b = int(input('please input value of b'))
+print('the value of a is ' + str(a))
+print('the value of b is ' + str(b))
+
+```
+
+#### Practice(Answer can be found in code file)
+1. Convert temperature from Fahrenheit scale to Celsius scale, take in the Fahrenheit temperature from keyboard, and print out the answer. (conversion.py)
+
+
+Answers can be executed with Python3 in the terminal: 
+```python3 conversion.py```
+
+
 
 
 
